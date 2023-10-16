@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://377Da1Da1.github.io</id>
+    <title>猪咪嘟嘴嘴</title>
+    <updated>2023-10-16T15:55:54.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://377Da1Da1.github.io"/>
+    <link rel="self" href="https://377Da1Da1.github.io/atom.xml"/>
+    <subtitle>今天也要开心哦 :)</subtitle>
+    <logo>https://377Da1Da1.github.io/images/avatar.png</logo>
+    <icon>https://377Da1Da1.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 猪咪嘟嘴嘴</rights>
+</feed>
